@@ -1,0 +1,14 @@
+.center{
+    text-align: center;
+    align-items: center;
+}
+.countrycards{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.countryflags{
+    width: 50px;
+    height: auto;
+}
